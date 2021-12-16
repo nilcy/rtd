@@ -1,4 +1,4 @@
-@startuml ToBE
+@startuml ToBe
 skinparam monochrome true
 skinparam handwritten false
 skinparam defaultFontName "Yu Gothic UI, sans-serif"
